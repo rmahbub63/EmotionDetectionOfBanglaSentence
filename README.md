@@ -43,3 +43,5 @@ https://deeplearning4j.org/word2vec
 7. Muhammad Zubair Asghar1, Aurangzeb Khan2, Shakeel Ahmad1, Fazal Masud Kundi1, "A Review of Feature Extraction in Sentiment Analysis", http://www.statmt.org/OSMOSES/FeatureEx.pdf
 8. Cecilia Ovesdotter Alm∗, Dan Roth, Richard Sproat, "Emotions from text: machine learning for text-based emotion prediction", https://goo.gl/8dZHD3
 9. Emotion Recognition from Text Based on Automatically Generated Rules, http://sentic.net/sentire2014el-hajj.pdf
+10. Recurrent Neural Network with Word Embedding for Complaint
+Classification, http://www.aclweb.org/anthology/W16-5205
