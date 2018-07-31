@@ -30,6 +30,7 @@ https://deeplearning4j.org/word2vec
 1. Top Five Emotion / Sentiment Analysis APIs for understanding user sentiment trends, https://medium.com/@sifium/top-five-emotional-sentiment-analysis-apis-116cd8d42055
 2. Bengali NLP Resources, http://sudiptakar.info/bengali-nlp-resources/?i=1
 3. *** Emotion Detection and Recognition from Text Using Deep Learning, https://www.microsoft.com/developerblog/2015/11/29/emotion-detection-and-recognition-from-text-using-deep-learning/
+4. Emotion Detection and Analysis Using Machine Learning and Deep Learning https://sylvesterkaczmarek.com/blog/emotion-detection-analysis-using-machine-learning-deep-learning/
 
 ## English Language:
 
