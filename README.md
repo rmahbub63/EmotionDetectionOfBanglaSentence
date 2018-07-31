@@ -1,5 +1,9 @@
 # EmotionDetectionOfBanglaSentence
 
+## bengali Language
+1.  Md. Al-Amin ;  Md. Saiful Islam ;  Shapan Das Uzzal, "Sentiment analysis of Bengali comments with Word2Vec and sentiment information of words", https://ieeexplore.ieee.org/abstract/document/7912903/
+
+
 ## Working Tools:
 1. Word2Vec, Doc2vec & GloVe: Neural Word Embeddings for Natural Language Processing
 https://deeplearning4j.org/word2vec
