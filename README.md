@@ -42,3 +42,4 @@ https://deeplearning4j.org/word2vec
 6. Deyu Zhou† Yang Yang† Yulan He§, "Relevant Emotion Ranking from Text Constrained with Emotion Relationships", http://www.aclweb.org/anthology/N18-1052
 7. Muhammad Zubair Asghar1, Aurangzeb Khan2, Shakeel Ahmad1, Fazal Masud Kundi1, "A Review of Feature Extraction in Sentiment Analysis", http://www.statmt.org/OSMOSES/FeatureEx.pdf
 8. Cecilia Ovesdotter Alm∗, Dan Roth, Richard Sproat, "Emotions from text: machine learning for text-based emotion prediction", https://goo.gl/8dZHD3
+9. Emotion Recognition from Text Based on Automatically Generated Rules, http://sentic.net/sentire2014el-hajj.pdf
