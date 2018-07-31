@@ -1,4 +1,4 @@
-# EmotionDetectionOfBanglaSentence
+# Emotion Detection Of Bengali Sentence
 
 ## bengali Language
 1.  Md. Al-Amin ;  Md. Saiful Islam ;  Shapan Das Uzzal, "Sentiment analysis of Bengali comments with Word2Vec and sentiment information of words", https://ieeexplore.ieee.org/abstract/document/7912903/
