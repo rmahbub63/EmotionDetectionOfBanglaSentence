@@ -1,7 +1,7 @@
 # Emotion Detection Of Bengali Sentence
 
 ## Bengali Language
-1.  Md. Al-Amin ;  Md. Saiful Islam ;  Shapan Das Uzzal, "Sentiment analysis of Bengali comments with Word2Vec and sentiment information of words", https://ieeexplore.ieee.org/abstract/document/7912903/
+1. *** Md. Al-Amin ;  Md. Saiful Islam ;  Shapan Das Uzzal, "Sentiment analysis of Bengali comments with Word2Vec and sentiment information of words", https://ieeexplore.ieee.org/abstract/document/7912903/
 2. Asif Hassan ;  Mohammad Rashedul Amin ;  Abul Kalam Al Azad ;  Nabeel Mohammed, "Sentiment analysis on bangla and romanized bangla text using deep recurrent models" https://ieeexplore.ieee.org/document/7860338/
 3. Dipankar Das, Sivaji Bandyopadhyay, "Word to Sentence Level Emotion Tagging for Bengali Blogs", http://www.dasdipankar.com/Main_files/ACL-IJCNLP_2009.pdf
 4. Muhammad Mahmudun Nabi, Md. Tanzir Altaf, Sabir Ismail, "Detecting Sentiment from Bangla Text using Machine Learning Technique and Feature Analysis", https://pdfs.semanticscholar.org/6d1f/47c985d5d946abcc8c48ec0b8a902f58b960.pdf
