@@ -7,6 +7,11 @@
 ## NLP Research Lab Link
 1. SUST Natural Language Processing Research Group http://nlp.sust.edu/home/publication
 2. Centre for Research on Bangla Language Processing (CRBLP) http://dspace.bracu.ac.bd:8080/xmlui/handle/10361/102
+3. UIC NLP Lab http://nlp.cs.uic.edu/
+4. DIU - NLP and Machine Learning Research LAB, https://sites.google.com/diu.edu.bd/diunlp-rl/home
+
+## useful Github Repository
+1. Lexical Database Bangla, https://github.com/abhishekgupta92/lexical_db_bangla
 
 ## Working Tools:
 1. Word2Vec, Doc2vec & GloVe: Neural Word Embeddings for Natural Language Processing
