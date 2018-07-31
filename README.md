@@ -31,6 +31,7 @@ https://deeplearning4j.org/word2vec
 2. Bengali NLP Resources, http://sudiptakar.info/bengali-nlp-resources/?i=1
 3. *** Emotion Detection and Recognition from Text Using Deep Learning, https://www.microsoft.com/developerblog/2015/11/29/emotion-detection-and-recognition-from-text-using-deep-learning/
 4. Emotion Detection and Analysis Using Machine Learning and Deep Learning https://sylvesterkaczmarek.com/blog/emotion-detection-analysis-using-machine-learning-deep-learning/
+5. *** https://adeshpande3.github.io/Deep-Learning-Research-Review-Week-3-Natural-Language-Processing
 
 ## English Language:
 
