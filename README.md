@@ -2,7 +2,11 @@
 
 ## bengali Language
 1.  Md. Al-Amin ;  Md. Saiful Islam ;  Shapan Das Uzzal, "Sentiment analysis of Bengali comments with Word2Vec and sentiment information of words", https://ieeexplore.ieee.org/abstract/document/7912903/
+2. Asif Hassan ;  Mohammad Rashedul Amin ;  Abul Kalam Al Azad ;  Nabeel Mohammed, "Sentiment analysis on bangla and romanized bangla text using deep recurrent models" https://ieeexplore.ieee.org/document/7860338/
 
+## NLP Research Lab Link
+1. SUST Natural Language Processing Research Group http://nlp.sust.edu/home/publication
+2. Centre for Research on Bangla Language Processing (CRBLP) http://dspace.bracu.ac.bd:8080/xmlui/handle/10361/102
 
 ## Working Tools:
 1. Word2Vec, Doc2vec & GloVe: Neural Word Embeddings for Natural Language Processing
